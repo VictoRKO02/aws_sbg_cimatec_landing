@@ -1,28 +1,22 @@
 # AWS SBG SENAI CIMATEC — Learning Hub
 
-<p align="center">
-  <img src="assets/aws-sbg-cimatec.png" alt="AWS SBG SENAI CIMATEC" width="120">
-</p>
-
-<p align="center">
-  Hub de materiais e conteúdos da comunidade <strong>AWS SBG SENAI CIMATEC</strong>.
-</p>
-
----
+Hub de materiais e conteúdos da comunidade **AWS SBG SENAI CIMATEC**.
 
 ## Sobre o projeto
 
 O **AWS SBG SENAI CIMATEC Learning Hub** é uma landing page desenvolvida para centralizar materiais de estudo, apresentações e recursos utilizados nas atividades da comunidade.
 
-A interface foi inspirada na identidade visual do **GitHub**, utilizando uma abordagem moderna, minimalista e responsiva.
+A interface foi inspirada na estética visual do GitHub, utilizando um design moderno, minimalista, responsivo e voltado para conteúdos relacionados a tecnologia.
 
-O projeto reúne conteúdos relacionados a **Git, GitHub, Cloud Computing e desenvolvimento de software**, permitindo que participantes acessem rapidamente os principais materiais utilizados durante palestras e atividades.
+O projeto reúne materiais sobre:
 
----
+- Git
+- GitHub
+- Cloud Computing
+- Desenvolvimento de software
+- Conteúdos utilizados em palestras e atividades da comunidade
 
 ## Recursos disponíveis
-
-A plataforma reúne acesso direto aos seguintes conteúdos:
 
 ### Microsoft Learn — GitHub Foundations
 
@@ -38,7 +32,7 @@ https://www.youtube.com/watch?v=2c7yWlpWDJM&list=PLcoYAcR89n-qbO7YAVj5S0alABLis_
 
 ### GitHub — AWS SBG SENAI CIMATEC
 
-Organização oficial contendo projetos, códigos e materiais desenvolvidos pela comunidade.
+Organização contendo projetos, códigos e materiais desenvolvidos pela comunidade.
 
 https://github.com/AWS-SBG-Senai-Cimatec
 
@@ -54,11 +48,9 @@ Acompanhe atividades, eventos e conteúdos da comunidade.
 
 https://www.instagram.com/awssbgsenaicimatec/
 
----
-
 ## Tecnologias utilizadas
 
-O projeto foi desenvolvido utilizando tecnologias web fundamentais:
+O projeto foi desenvolvido utilizando:
 
 - HTML5
 - CSS3
@@ -66,9 +58,7 @@ O projeto foi desenvolvido utilizando tecnologias web fundamentais:
 - Google Fonts
 - Design responsivo
 
-Não são necessários frameworks ou dependências externas para executar a aplicação.
-
----
+Não são necessários frameworks ou dependências adicionais para executar a aplicação.
 
 ## Estrutura do projeto
 
